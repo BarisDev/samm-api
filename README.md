@@ -1,2 +1,4 @@
-How to run?
-```npm i && node index.js```
+### How to run?
+```
+npm i && node index.js
+```
